@@ -1,0 +1,2 @@
+Nombre: Tu Nombre
+Correo: tu.email@example.com
